@@ -1,0 +1,12 @@
+C:\Users\ricky\source\repos\TICTACLOG\bin\Debug\TICTACLOG.exe.config
+C:\Users\ricky\source\repos\TICTACLOG\bin\Debug\TICTACLOG.exe
+C:\Users\ricky\source\repos\TICTACLOG\bin\Debug\TICTACLOG.pdb
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.csproj.AssemblyReference.cache
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.Form1.resources
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.Properties.Resources.resources
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.csproj.GenerateResource.cache
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.exe
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.pdb
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.Adminis.resources
+C:\Users\ricky\source\repos\TICTACLOG\obj\Debug\TICTACLOG.Logins.resources
